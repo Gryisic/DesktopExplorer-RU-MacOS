@@ -188,13 +188,13 @@ OS_misc_contents,,77882855525441549,Второе устройство:
 OS_misc_contents,,77882855525441550,RD52323
 OS_misc_contents,,77882855525441551,Инициализация экрана входа . . . . . . . . . /
 OS_misc_contents,,77882855525441552,"Это тестовая сборка игры, предоставленная только для тестирования и сбора отзывов. Всё содержимое, включая (но не ограничиваясь) визуальные эффекты, звук, игровые механики, элементы интерфейса и повествовательные элементы, находится в разработке и может измениться. Итоговое качество, производительность и функциональность в финальном релизе могут значительно отличаться."
-OS_misc_contents,,77882855525441554,Листать
-OS_misc_contents,,77882855525441555,Интерфейсный мистический квест
+OS_misc_contents,,77882855525441554,Навигация
+OS_misc_contents,,77882855525441555,Мистическое приключение по интерфейсу
 OS_misc_contents,,77882855525441556,Начать игру
 OS_misc_contents,,77882855525441557,Настройки
 OS_misc_contents,,77882855525441558,Наш Discord
 OS_misc_contents,,77882855525441559,Выход
-OS_misc_contents,,77882855525441560,В вишлист на Steam!
+OS_misc_contents,,77882855525441560,Добавить в список желаемого Steam!
 OS_misc_contents,,77882855525441561,ENTER = Выбрать
 OS_misc_contents,,77882855525441562,- Демоверсия - 
 OS_misc_contents,,77882855525441563,НАЙДЕН ФАЙЛ СОХРАНЕНИЯ
@@ -205,12 +205,12 @@ OS_misc_contents,,77882855525441567,- Меню настроек NEXT OS -
 OS_misc_contents,,77882855525441568,Назад
 OS_misc_contents,,77882855525441569,Применить
 OS_misc_contents,,77882855525441570,Настроить
-OS_misc_contents,,77882855525441571,Листать
+OS_misc_contents,,77882855525441571,Навигация
 OS_misc_contents,,77882855525441572,Разрешение
 OS_misc_contents,,77882855525441573,Полный экран
 OS_misc_contents,,77882855525441574,Режим CRT
 OS_misc_contents,,77882855525441575,-Хроматическая аберрация
-OS_misc_contents,,77882855525441576,-Интенсивность развёртки
+OS_misc_contents,,77882855525441576,-Интенсивность сканлайнов
 OS_misc_contents,,77882855525441577,ВЫКЛ
 OS_misc_contents,,77882855525441578,НИЗКАЯ
 OS_misc_contents,,77882855525441579,СРЕДНЯЯ
@@ -221,9 +221,9 @@ OS_misc_contents,Adm_Tower_Title,112125597210107904,БАШНЯ
 OS_misc_contents,BIOS_AdvCRT_FilmGrain,100775841934336005,Зернистость
 OS_misc_contents,BIOS_AdvCRT_Header,100775841934336001,Расширенный CRT
 OS_misc_contents,BIOS_AdvCRT_RGBBlur,100775841934336004,Размытие RGB
-OS_misc_contents,BIOS_AdvCRT_Scanlines,100775841934336002,Развёртка
+OS_misc_contents,BIOS_AdvCRT_Scanlines,100775841934336002,Сканлайны
 OS_misc_contents,BIOS_AdvCRT_ScreenCurve,100775841934336003,Изгиб экрана
-OS_misc_contents,BIOS_Audio_Ambience,100768195114164226,Атмосфера
+OS_misc_contents,BIOS_Audio_Ambience,100768195114164226,Окружение
 OS_misc_contents,BIOS_Audio_Header,100738524158877702,Звук
 OS_misc_contents,BIOS_Audio_Master,100768195109969920,Общая громкость
 OS_misc_contents,BIOS_Audio_Music,100768195114164224,Музыка
@@ -245,7 +245,7 @@ OS_misc_contents,BIOS_MenuHeader,100777579437350912,- Меню настроек 
 OS_misc_contents,BIOS_Setting_Off,101130946621726720,Выкл
 OS_misc_contents,BIOS_Setting_On,101421595220762624,Вкл
 OS_misc_contents,BootUp_Sqnc_Disclaimer_1,78037984601956368,"Это тестовая сборка игры, предоставленная только для тестирования и сбора отзывов. Всё содержимое, включая (но не ограничиваясь) визуальные эффекты, звук, игровые механики, элементы интерфейса и повествовательные элементы, находится в разработке и может измениться. Итоговое качество, производительность и функциональность в финальном релизе могут значительно отличаться."
-OS_misc_contents,BootUp_Sqnc_InitalizeOverride_Guppy,98405417002983424,"Добро пожаловать, Гуппи . . . . . . {0}"
+OS_misc_contents,BootUp_Sqnc_InitalizeOverride_Guppy,98405417002983424,"Добро пожаловать, Guppy . . . . . . {0}"
 OS_misc_contents,BootUp_Sqnc_Label_1,78037984601956353,"T3 G3T, сертифицированная система OTE.
 Copyright (c) 1995, Spiralsoft Electronics Inc."
 OS_misc_contents,BootUp_Sqnc_Label_10,78037984601956362,MIDNIGHT TX-23
@@ -264,8 +264,8 @@ OS_misc_contents,BootUp_Sqnc_Label_8,78037984601956360,ZW100-33
 OS_misc_contents,BootUp_Sqnc_Label_9,78037984601956361,Дополнительный контроллер:
 OS_misc_contents,BootUp_Sqnc_Login_Screen,85897608868913152,Экран входа
 OS_misc_contents,BootUp_Sqnc_Safe_Mode,85897608877301760,БЕЗОПАСНЫЙ РЕЖИМ
-OS_misc_contents,Chrono_WriteEntry,2154513468219392,Написать
-OS_misc_contents,Chronolog_About_Text,5761032113872899,«Не дай своим воспоминаниям пройти мимо... Занеси их в Chronolog и сохрани навсегда!»
+OS_misc_contents,Chrono_WriteEntry,2154513468219392,Сделать запись
+OS_misc_contents,Chronolog_About_Text,5761032113872899,«Не дай своим воспоминаниям ускользнуть... Занеси их в Chronolog и сохрани навсегда!»
 OS_misc_contents,ColorlensInstaller_Hal_1,515453739013,Установка Colorlens
 OS_misc_contents,ColorlensInstaller_Hal_2,515453739014,Поиск цветовых индексов...
 OS_misc_contents,ColorlensInstaller_Hal_3,515453739015,Настройка призматики...
@@ -297,22 +297,22 @@ OS_misc_contents,DEInstaller_Hal_5,515453739011,Декодирование из�
 OS_misc_contents,DEInstaller_Hal_6,515453739012,Настройка иерархии файлов...
 OS_misc_contents,DEInstaller_Marketing_Demo_1,17418858888421376,Установка демо
 OS_misc_contents,DEInstaller_Marketing_Demo_2,17418858901004288,Демо уже доступно!
-OS_misc_contents,DEInstaller_Max_4,117877846599262208,Картирование коридоров...
-OS_misc_contents,DEInstaller_Max_6,117877846599262209,Раскладка улик...
+OS_misc_contents,DEInstaller_Max_4,117877846599262208,Построение карты коридоров...
+OS_misc_contents,DEInstaller_Max_6,117877846599262209,Раскладывание улик...
 OS_misc_contents,HAL_PuzzleT2_Password2,104120708584431618,шестьдесят-семь
 OS_misc_contents,HAL_PuzzleT2_Password3,104120708584431619,шестьдесятсемь
 OS_misc_contents,HAL_PuzzleT2_Password4,104120708584431620,шестьдесят семь
 OS_misc_contents,HAL_PuzzleT2_Password5,104120708588625920,шесть-семь
 OS_misc_contents,HAL_PuzzleT2_Password6,104120708588625921,шестьсемь
 OS_misc_contents,HAL_PuzzleT2_Password7,104120708588625922,шесть семь
-OS_misc_contents,Halibut_A2_CorrectPhrase,106992481529225217,МЫ НЕПОЛНЫ БЕЗ ТЕБЯ
-OS_misc_contents,MAZE_PointerText_AfterGlitch,95281148689637379,"<shake a=0.02 f=0.5>Чтобы разорвать этот круг, нужно много боли и смелости.</shake>"
+OS_misc_contents,Halibut_A2_CorrectPhrase,106992481529225217,БЕЗ ТЕБЯ МЫ НЕ ЕДИНЫ
+OS_misc_contents,MAZE_PointerText_AfterGlitch,95281148689637379,"<shake a=0.02 f=0.5>Чтобы разорвать этот круг, нужно пережить много боли и найти в себе смелость.</shake>"
 OS_misc_contents,MAZE_PointerText_FirstLaps,95281148689637376,"Иногда кажется, что жизнь <shake a=0.02 f=0.5>идёт по кругу.</shake>"
-OS_misc_contents,MAZE_PointerText_LastLaps,95281148689637378,Ты можешь <shake a=0.02 f=0.5>сам выбирать</shake> свой путь. Используй <glow>WASD</glow> для передвижения.
-OS_misc_contents,MAZE_PointerText_LaterLaps,95281148689637377,"<incr>Один шаг</incr> — это всё, что нужно, чтобы перестать ходить по кругу."
+OS_misc_contents,MAZE_PointerText_LastLaps,95281148689637378,Ты <shake a=0.02 f=0.5>контролируешь</shake> свой путь. Используй <glow>WASD</glow> для движения.
+OS_misc_contents,MAZE_PointerText_LaterLaps,95281148689637377,"<incr>Одного шага</incr> достаточно, чтобы разорвать круг."
 OS_misc_contents,NextOS_Copyright_Text_1,5761032105484288,Copyright © 1995-1998 Spiralsoft Corp.
 OS_misc_contents,NextOS_Copyright_Text_2,5761032113872897,Это программное обеспечение создано компанией Spiralsoft (c)
-OS_misc_contents,Notepage_About_Text,5761032113872904,"«Забудь про старую ручку и бумагу. Все твои заметки — организованно, в цифровом мире»"
+OS_misc_contents,Notepage_About_Text,5761032113872904,"«Оставь ручку и бумагу в прошлом. Храни все свои заметки в цифровом мире»"
 OS_misc_contents,OS_AdminPSOD_ErrorMessage,82748122252435459,"Произошло фатальное исключение 0M:(03)
 Восстановление данных до неожиданной ошибки . . .
 
@@ -369,8 +369,8 @@ OS_misc_contents,OS_Cronolog_Guppy,89094151524573188,Дневник Guppy
 OS_misc_contents,OS_Cronolog_Halibut,89094151524573184,Дневник Halibut
 OS_misc_contents,OS_Cronolog_Import_Entries,75355315447521300,Импорт записей
 OS_misc_contents,OS_Cronolog_Max,89094151524573186,Дневник Max
-OS_misc_contents,OS_Cronolog_MissingEntry,89094151524573189,Нет записи
-OS_misc_contents,OS_Cronolog_New_Entry,75355315447521298,Создать + 
+OS_misc_contents,OS_Cronolog_MissingEntry,89094151524573189,Запись не найдена
+OS_misc_contents,OS_Cronolog_New_Entry,75355315447521298,Создать запись + 
 OS_misc_contents,OS_Cronolog_Sort_Newest_To_Oldest,75355315447521302,Сначала новые
 OS_misc_contents,OS_Cronolog_Sort_Oldest_To_Newest,75355315447521301,Сначала старые
 OS_misc_contents,OS_Cronolog_Sort_Unlocked_Newest_To_Oldest,100705494887292928,"По дате разблокировки, от новых к старым"
@@ -381,16 +381,16 @@ OS_misc_contents,OS_FileDialog_Look_In,75355315447521294,Папка
 OS_misc_contents,OS_FileDialog_OpenFile,87072534124552192,Открыть файл
 OS_misc_contents,OS_FileExplorer_Delete_File,75355315447521313,Удалить файл
 OS_misc_contents,OS_FileExplorer_HiddenFiles,75355315447521322,Скрытые файлы
-OS_misc_contents,OS_FileExplorer_Invert_Selection,75355315447521315,Обратить выделение
+OS_misc_contents,OS_FileExplorer_Invert_Selection,75355315447521315,Инвертировать выделение
 OS_misc_contents,OS_FileExplorer_ItemCount,83296929851629568,{0} объект(ов)
 OS_misc_contents,OS_FileExplorer_New_WIndow,75355315447521312,Новое окно
-OS_misc_contents,OS_FileExplorer_Rename_File,75355315447521314,Имя файла
+OS_misc_contents,OS_FileExplorer_Rename_File,75355315447521314,Переименовать файл
 OS_misc_contents,OS_FileExplorer_SortByDate,75355315447521320,По дате
 OS_misc_contents,OS_FileExplorer_SortByName,75355315447521318,По имени
 OS_misc_contents,OS_FileExplorer_SortBySize,75355315447521319,По размеру
 OS_misc_contents,OS_FileExplorer_SortByType,75355315447521321,По типу
 OS_misc_contents,OS_FileExplorer_To_Documents,75355315447521316,В Документы
-OS_misc_contents,OS_FileExplorer_Toolbar,75355315447521317,Панель
+OS_misc_contents,OS_FileExplorer_Toolbar,75355315447521317,Панель инструментов
 OS_misc_contents,OS_GuppyPSOD_Body,115630830083104769,"Произошло фатальное исключение 0M по адресу 52514215:21421544 в PLYBS:(03)
 Восстановление данных профиля до переполнения памяти . . .
 
@@ -413,7 +413,7 @@ OS_misc_contents,OS_InputDialog_PasswordValidation,75355315447521326,Невер�
 OS_misc_contents,OS_InputDialog_RenameBody,75355315447521324,Введите новое имя этого файла
 OS_misc_contents,OS_InputDialog_RenameInvalidExtension,75355315447521329,"Пожалуйста, используйте корректное расширение файла (.npg, .stp и т. д.)"
 OS_misc_contents,OS_InputDialog_RenameMissingExtensionValidation,75355315447521327,"Пожалуйста, укажите расширение в имени файла"
-OS_misc_contents,OS_Login_Alert,89094151528767488,"<color=""red>!</color> Тревога <color=""red>!</color>"
+OS_misc_contents,OS_Login_Alert,89094151528767488,"<color=""red>!</color> Внимание <color=""red>!</color>"
 OS_misc_contents,OS_Login_IncorrectPassword,85912778722762757,Неверный пароль!
 OS_misc_contents,OS_Login_LogIn,85912778722762755,Войти
 OS_misc_contents,OS_Login_Password,85912778722762756,Введите пароль
@@ -424,8 +424,8 @@ OS_misc_contents,OS_Login_Title,85912778722762753,Добро пожаловат�
 OS_misc_contents,OS_NextAmp_NowPlaying,83808538143481858,Сейчас играет — 
 OS_misc_contents,OS_NextAmp_TrackPaused,83808538143481859,Трек на паузе
 OS_misc_contents,OS_NextAmp_WaitingForTrack,83808538143481857,Ожидание трека
-OS_misc_contents,OS_NextRooms_DuplicatedRoomie,98951586066194432,Сосед уже добавлен.
-OS_misc_contents,OS_NextRooms_RoomieValidation,98951586053611520,Неверный код соседа.
+OS_misc_contents,OS_NextRooms_DuplicatedRoomie,98951586066194432,Roomie уже добавлен.
+OS_misc_contents,OS_NextRooms_RoomieValidation,98951586053611520,Неверный код Roomie.
 OS_misc_contents,OS_Notepage_About,75355315447521332,О программе Notepage
 OS_misc_contents,OS_Notepage_Cut,75355315447521335,Вырезать
 OS_misc_contents,OS_Notepage_Font,75355315447521334,Шрифт...
@@ -444,13 +444,13 @@ OS_misc_contents,OS_Settings_DesktopTheme,75355315447521351,Тема рабоч�
 OS_misc_contents,OS_Settings_FullScreenMode,75355315447521354,Полноэкранный режим
 OS_misc_contents,OS_Settings_General,75355315447521347,Общие
 OS_misc_contents,OS_Settings_Preview,75355315447521359,Предпросмотр
-OS_misc_contents,OS_Settings_ScanlineStrength,75355315447521357,Интенсивность развёртки
+OS_misc_contents,OS_Settings_ScanlineStrength,75355315447521357,Интенсивность сканлайнов
 OS_misc_contents,OS_Settings_ScreenResolution,75355315447521353,Разрешение экрана
 OS_misc_contents,OS_Settings_ScreenSaver,75355315447521348,Заставка
 OS_misc_contents,OS_Settings_SystemPreferences,75355315447521350,Параметры системы
 OS_misc_contents,OS_Settings_WaitTime,75355315447521360,Ожидание
 OS_misc_contents,OS_Settings_Wallpaper,75355315447521352,Обои
-OS_misc_contents,OS_Sketchy_About,75355315447521344,О Sketchy
+OS_misc_contents,OS_Sketchy_About,75355315447521344,О программе Sketchy
 OS_misc_contents,OS_Sketchy_ClearAll,75355315447521345,Очистить всё
 OS_misc_contents,OS_StartMenu_Games,86625903726026756,Игры
 OS_misc_contents,OS_StartMenu_LogOut,86625903726026754,Выйти
@@ -474,8 +474,8 @@ OS_misc_contents,OS_TitleScreen_DemoVersion,78037984601956378,- Демоверс
 OS_misc_contents,OS_TitleScreen_Discord,78037984601956374,Наш Discord
 OS_misc_contents,OS_TitleScreen_Enter,78037984601956377,Выбрать
 OS_misc_contents,OS_TitleScreen_Exit,78037984601956375,Выход
-OS_misc_contents,OS_TitleScreen_Navigate,78037984601956370,Листать
-OS_misc_contents,OS_TitleScreen_NewFileLanguageDisclaimer,118477502832173057,Выбранный язык <color=#F9A31B>НЕЛЬЗЯ</color> будет изменить позже в игре. Всё в порядке?
+OS_misc_contents,OS_TitleScreen_Navigate,78037984601956370,Навигация
+OS_misc_contents,OS_TitleScreen_NewFileLanguageDisclaimer,118477502832173057,Выбранный язык <color=#F9A31B>НЕЛЬЗЯ</color> будет изменить позже в игре. Вас это устраивает?
 OS_misc_contents,OS_TitleScreen_NewFileLanguageDisclaimerTitle,118477502832173056,УВЕДОМЛЕНИЕ О ЯЗЫКЕ
 OS_misc_contents,OS_TitleScreen_NewFileLanguageDisclaimer_Option1,118477502832173058,"ДА, НАЧАТЬ ИГРУ"
 OS_misc_contents,OS_TitleScreen_NewFileLanguageDisclaimer_Option2,118477502832173059,НАЗАД
@@ -486,10 +486,10 @@ OS_misc_contents,OS_TitleScreen_Options_Chromatic,78037984601956391,-Хрома�
 OS_misc_contents,OS_TitleScreen_Options_Footer_Label_1,78037984601956384,Назад
 OS_misc_contents,OS_TitleScreen_Options_Footer_Label_2,78037984601956385,Применить
 OS_misc_contents,OS_TitleScreen_Options_Footer_Label_3,78037984601956386,Настроить
-OS_misc_contents,OS_TitleScreen_Options_Footer_Label_4,78037984601956387,Листать
+OS_misc_contents,OS_TitleScreen_Options_Footer_Label_4,78037984601956387,Навигация
 OS_misc_contents,OS_TitleScreen_Options_Fullscreen,78037984601956389,Полный экран
 OS_misc_contents,OS_TitleScreen_Options_Resolution,78037984601956388,Разрешение
-OS_misc_contents,OS_TitleScreen_Options_Scanline,78037984601956392,-Интенсивность развёртки
+OS_misc_contents,OS_TitleScreen_Options_Scanline,78037984601956392,-Интенсивность сканлайнов
 OS_misc_contents,OS_TitleScreen_Options_Title,78037984601956383,- Меню настроек NEXT OS -
 OS_misc_contents,OS_TitleScreen_Options_Value_High,78037984601956396,ВЫСОКАЯ
 OS_misc_contents,OS_TitleScreen_Options_Value_Low,78037984601956394,НИЗКАЯ
@@ -499,10 +499,10 @@ OS_misc_contents,OS_TitleScreen_SaveFileDetected,78037984601956379,НАЙДЕН 
 OS_misc_contents,OS_TitleScreen_StartDemo,102860454659874816,Начать демо
 OS_misc_contents,OS_TitleScreen_StartGame,78037984601956372,Начать игру
 OS_misc_contents,OS_TitleScreen_StartOver,78037984601956381,НОВАЯ ИГРА
-OS_misc_contents,OS_TitleScreen_SubTitle,78037984601956371,Интерфейсный мистический квест
-OS_misc_contents,OS_TitleScreen_Wishlist,78037984601956376,В вишлист на Steam!
+OS_misc_contents,OS_TitleScreen_SubTitle,78037984601956371,Мистическое приключение по интерфейсу
+OS_misc_contents,OS_TitleScreen_Wishlist,78037984601956376,Добавить в список желаемого Steam!
 OS_misc_contents,OS_TitleScreen_YesStartOver,100705494904070145,"ДА, НАЧАТЬ НОВУЮ ИГРУ"
-OS_misc_contents,OS_VolumeMixer_Ambience,75355315451715596,Атмосфера
+OS_misc_contents,OS_VolumeMixer_Ambience,75355315451715596,Окружение
 OS_misc_contents,OS_VolumeMixer_Master,75355315451715593,Общий 
 OS_misc_contents,OS_VolumeMixer_Music,75355315451715595,Музыка
 OS_misc_contents,OS_VolumeMixer_Mute,75355315451715591,Без звука
@@ -578,11 +578,11 @@ OS_misc_contents,SecurityAnswers_P9Hanoi_Q4A6,515453739042,старший бра
 OS_misc_contents,SecurityAnswers_P9Hanoi_Q4A7,515453739043,старший-брат
 OS_misc_contents,SecurityAnswers_P9Hanoi_Q4A8,515453739044,старший_брат
 OS_misc_contents,SecurityAnswers_P9Hanoi_Q4A9,515453739045,брат
-OS_misc_contents,SecurityQuestion_P9Hanoi_1,515453739019,Секретный вопрос: какое животное купается в слезах горя?
-OS_misc_contents,SecurityQuestion_P9Hanoi_2,515453739020,Секретный вопрос: сколько глаз наблюдают блаженство принятия?
-OS_misc_contents,SecurityQuestion_P9Hanoi_3,515453739021,Секретный вопрос: как проявился гнев вокруг человека в лодке?
-OS_misc_contents,SecurityQuestion_P9Hanoi_4,515453739022,Секретный вопрос: кто этот мёртвый человек в лодке?
-OS_misc_contents,SketchyAddOnInstaller_1,108027872424222725,Установка дополнения Sketchy Colors
+OS_misc_contents,SecurityQuestion_P9Hanoi_1,515453739019,Секретный вопрос: Какое животное купается в слезах горя?
+OS_misc_contents,SecurityQuestion_P9Hanoi_2,515453739020,Секретный вопрос: Сколько глаз наблюдают блаженство принятия?
+OS_misc_contents,SecurityQuestion_P9Hanoi_3,515453739021,Секретный вопрос: Как проявился гнев вокруг человека в лодке?
+OS_misc_contents,SecurityQuestion_P9Hanoi_4,515453739022,Секретный вопрос: Кто был тем мертвецом в лодке?
+OS_misc_contents,SketchyAddOnInstaller_1,108027872424222725,Установка дополнения для Sketchy Colors
 OS_misc_contents,SketchyAddOnInstaller_2,108027872424222726,Распаковка тонов...
 OS_misc_contents,SketchyAddOnInstaller_3,108027872424222727,Настройка Sketchy UI...
 OS_misc_contents,SketchyAddOnInstaller_4,108027872424222728,Декодирование hex...
@@ -590,7 +590,7 @@ OS_misc_contents,SketchyAddOnInstaller_5,108027872424222729,Поиск граф�
 OS_misc_contents,SketchyAddOnInstaller_6,108027872424222730,Настройка мазков кисти...
 OS_misc_contents,Sketchy_About_Text,5761032113872903,«Каждый шедевр начинается с простого наброска»
 OS_misc_contents,Sketchy_Copyright_Text_1,17420569338175488,Copyright © 1996 WAMFDigital Inc.
-OS_misc_contents,StoryTeller_About_Text,5761032113872898,"«Истории рассказывали, потом записывали, потом снимали. Теперь мы используем StoryTeller+»"
+OS_misc_contents,StoryTeller_About_Text,5761032113872898,"«Истории сначала рассказывали, затем записывали, затем экранизировали. Теперь мы используем StoryTeller+»"
 OS_misc_contents,System_Notification_New_File_Added,10443928686813184,Добавлен новый файл: {0}
 OS_misc_contents,Theme_Admin,75355315447521364,WorkHours
 OS_misc_contents,Theme_Gothic,75355315447521368,PitchforkTime
