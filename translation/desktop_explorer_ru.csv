@@ -31,7 +31,7 @@ Credits,credits_thanksForPlaying,616901369878,Спасибо за игру!
 Credits,credits_writing,616901369866,Сценарий
 OS_Alerts,,201456084747018240,Уже установлено
 OS_Alerts,,201456084751212544,Desktop Explorer уже установлен. Его папку можно найти на рабочем столе.
-OS_Alerts,,201456084751212545,Правки не сохранены
+OS_Alerts,,201456084751212545,Изменения не сохранены
 OS_Alerts,,201456084751212546,"В этом файле есть несохранённые изменения. Вы уверены, что хотите закрыть его? Все изменения будут потеряны."
 OS_Alerts,,96708851011674112,Доступна новая запись Chronolog для заполнения
 OS_Alerts,,96731321487843328,Доступна новая запись Chronolog для заполнения
@@ -41,39 +41,39 @@ OS_Alerts,,99085380140130304,Создан файл с путём: {0}
 OS_Alerts,,99374234868899840,Создан файл с путём: {0}
 OS_Alerts,AddRommieAlertDescription,88815206677864448,Добавить код друга Roomie
 OS_Alerts,AddRommieAlertTitle,88814986040696832,NextRooms
-OS_Alerts,CannotChangeScreenSaverDueToMazePuzzleBody,222490104813314048,"Изменение настроек заставки заблокировано текущим процессом: DesktopExplorerPuzzle. Завершите головоломку пролога, чтобы вернуть контроль над этим меню."
-OS_Alerts,CannotChangeScreenSaverDueToMazePuzzleTitle,222490104804925440,Оповещение! — заблокировано DesktopExplorer
-OS_Alerts,ChronologDataCorruptionBody,3806912553410561,Не удаётся изменить реестр записей (Ошибка Chronolog: в реестре присутствует как минимум одна повреждённая запись. (Исключение CHR0N0:0xUMZAUSA))
-OS_Alerts,ChronologDataCorruptionDescription,3658443700297730,Не удаётся изменить реестр записей (Ошибка Chronolog: в реестре присутствует как минимум одна повреждённая запись. (Исключение CHR0N0:0xUMZAUSA))
-OS_Alerts,ChronologEntryCorruptedBody,130855088505741312,Не удаётся открыть файл (Ошибка Chronolog: файл записи повреждён. Восстановление невозможно. (Исключение CHR0N0: 0xNFMRUHBXARGWC))
+OS_Alerts,CannotChangeScreenSaverDueToMazePuzzleBody,222490104813314048,"Изменение настроек заставки заблокировано текущим процессом: DesktopExplorerPuzzle. Завершите головоломку-пролог, чтобы вернуть контроль над этим меню."
+OS_Alerts,CannotChangeScreenSaverDueToMazePuzzleTitle,222490104804925440,Внимание! — Заблокировано приложением DesktopExplorer
+OS_Alerts,ChronologDataCorruptionBody,3806912553410561,Не удаётся изменить реестр записей (Ошибка Chronolog: В реестре присутствует как минимум одна повреждённая запись. (Исключение CHR0N0:0xUMZAUSA))
+OS_Alerts,ChronologDataCorruptionDescription,3658443700297730,Не удаётся изменить реестр записей (Ошибка Chronolog: В реестре присутствует как минимум одна повреждённая запись. (Исключение CHR0N0:0xUMZAUSA))
+OS_Alerts,ChronologEntryCorruptedBody,130855088505741312,Не удаётся открыть файл (Ошибка Chronolog: Файл записи повреждён. Восстановление невозможно. (Исключение CHR0N0: 0xNFMRUHBXARGWC))
 OS_Alerts,ChronologRegistryExceptionTitle,3658443700297728,ChronologRegistryException
-OS_Alerts,ChronologUserExceptionBody,3806912553410562,Не удаётся изменить реестр записей (Ошибка Chronolog: не удалось подтвердить намерение текущего пользователя. (Исключение CHR0N0: 0xUYSNURLAE))
-OS_Alerts,ChronologUserExceptionDescription,3658443700297731,Не удаётся изменить реестр записей (Ошибка Chronolog: не удалось подтвердить намерение текущего пользователя. (Исключение CHR0N0: 0xUYSNURLAE))
+OS_Alerts,ChronologUserExceptionBody,3806912553410562,Не удаётся изменить реестр записей (Ошибка Chronolog: Не удалось подтвердить намерение текущего пользователя. (Исключение CHR0N0: 0xUYSNURLAE))
+OS_Alerts,ChronologUserExceptionDescription,3658443700297731,Не удаётся изменить реестр записей (Ошибка Chronolog: Не удалось подтвердить намерение текущего пользователя. (Исключение CHR0N0: 0xUYSNURLAE))
 OS_Alerts,CrashSequence_Hal_1,74384543191130112,ВЫЙТИ СЕЙЧАС
 OS_Alerts,CrashSequence_Hal_2,74384556583542784,ТЕБЕ ЗДЕСЬ НЕ МЕСТО
 OS_Alerts,CrashSequence_Hal_3,74384563265069056,ТЫ НИКОГДА НЕ ЗАБУДЕШЬ
 OS_Alerts,CrashSequence_Hal_4,74384569262923776,ХОЧЕШЬ ЛИ ТЫ ЗАБЫТЬ?
 OS_Alerts,CrashSequence_Hal_5,74385332039049216,ЧУВСТВО ВИНЫ ВРЕДИТ ПАМЯТИ
-OS_Alerts,DemoLogoutBody,3806912557604877,Не удаётся выполнить запрос пользователя (Ошибка ОС: открытый исполняемый файл препятствует операции. (Исключение ОС: 0x0N1C3TRY))
+OS_Alerts,DemoLogoutBody,3806912557604877,Не удаётся выполнить запрос пользователя (Ошибка ОС: Открытый исполняемый файл препятствует операции. (Исключение ОС: 0x0N1C3TRY))
 OS_Alerts,DemoLogoutTitle,3806912557604876,ОШиБкА
-OS_Alerts,DemoSelectUserBody,3806912557604879,Не удаётся получить доступ к пользователю. Ошибка: несовместимая версия ОС. (OutsideDemoScopeException: 0x70617469656E6365)
+OS_Alerts,DemoSelectUserBody,3806912557604879,Не удаётся получить доступ к пользователю. Ошибка: Несовместимая версия ОС. (OutsideDemoScopeException: 0x70617469656E6365)
 OS_Alerts,DemoSelectUserTitle,41017239426392064,ОШИБКА
 OS_Alerts,DuplicateExecutableAlertBody,3806912557604881,Дублирование исполняемых файлов не поддерживается.
 OS_Alerts,DuplicateFolderAlertBody,3806912557604870,Дублирование папок не поддерживается.
 OS_Alerts,EditFileNoPermissionTitle,2963571481763840,Недопустимая операция
-OS_Alerts,FadingAlertBody,208510760352997376,"В системе закончилась память. Она заполнилась из-за навязчивости. Чтобы продолжить, нужно попрощаться."
+OS_Alerts,FadingAlertBody,208510760352997376,"В системе закончилась память. Когда-то её занимало чужое присутствие. Чтобы продолжить, попрощайтесь с ним."
 OS_Alerts,FileConversionInvalidBody,3806912536633344,"NextOS не может преобразовать файл в указанное расширение, содержимое файла может стать нечитаемым."
 OS_Alerts,FileConversionInvalidDescription,3658443675131904,"NextOS не может преобразовать файл в указанное расширение, содержимое файла может стать нечитаемым."
 OS_Alerts,FileCorruptedAlertBody,3806912557604883,"Не удалось открыть файл, содержимое может быть повреждено."
 OS_Alerts,FileFlattenerExceptionTitle,3658443700297729,FileFlattenerException
-OS_Alerts,FileFlattenerNoAccessBody,3806912557604864,Сжатие отменено: у текущего пользователя нет прав на изменение {0} файл(ов) в текущем выборе.
-OS_Alerts,FileFlattenerNoAccessDescription,3669725941850112,Сжатие отменено: у текущего пользователя нет прав на изменение {0} файл(ов) в текущем выборе
+OS_Alerts,FileFlattenerNoAccessBody,3806912557604864,Сжатие отменено: У текущего пользователя нет прав на изменение {0} файл(ов) в текущем выборе.
+OS_Alerts,FileFlattenerNoAccessDescription,3669725941850112,Сжатие отменено: У текущего пользователя нет прав на изменение {0} файл(ов) в текущем выборе
 OS_Alerts,FileSystemExceptionTitle,3658443696103426,FileSystemException
 OS_Alerts,GAdminIncorrectChessboardSolutionAlertBody,162826729678692354,Король сбежал. Попробуйте снова.
 OS_Alerts,GAdminIncorrectChessboardSolutionAlertTitle,162826729678692353,Королевский зевок
 OS_Alerts,GAdminInvalidChessboardBlackPiecesAlertBody,198639457697521664,Обнаружено недопустимое количество чёрных фигур. Дубликаты удалены.
 OS_Alerts,GAdminInvalidChessboardPiecesAlertTitle,198639457680744448,Недопустимое количество шахматных фигур
-OS_Alerts,GAdminInvalidChessboardPositionAlertBody,162802690067259393,Обнаружен недопустимый формат переименованного файла. Имя файла шахматной фигуры возвращено к исходному.
+OS_Alerts,GAdminInvalidChessboardPositionAlertBody,162802690067259393,Обнаружено недопустимое имя файла. Исходное имя шахматной фигуры восстановлено.
 OS_Alerts,GAdminInvalidChessboardPositionAlertTitle,162802690067259392,Неверное имя файла
 OS_Alerts,GAdminInvalidKingQuantityAlertBody,162802690067259394,Обнаружено недопустимое количество белых королей. Добавленные файлы удалены.
 OS_Alerts,GAdminInvalidKnightQuantityAlertBody,162802690067259395,Обнаружено недопустимое количество белых коней на доске. Добавленные файлы удалены.
@@ -81,10 +81,10 @@ OS_Alerts,GAdminInvalidPawnQuantityAlertBody,198767153844838400,Обнаруже
 OS_Alerts,GAdminInvalidRookQuantityAlertBody,162802690067259396,Обнаружено недопустимое количество белых ладей на доске. Добавленные файлы удалены.
 OS_Alerts,GAdminSolvedChessboardAlertBody,165607979858518016,"Отлично, королю некуда бежать"
 OS_Alerts,GAdminSolvedChessboardAlertTitle,165607979854323712,Шах и мат
-OS_Alerts,GHalibutCannotRestoreBody,208510760357191682,"У этого файла нет каталога, куда можно вернуться, — он существует между рабочими столами"
+OS_Alerts,GHalibutCannotRestoreBody,208510760357191682,"У этого файла нет родительской директории. Он существует вне рабочих столов"
 OS_Alerts,GHalibutCannotRestoreTitle,208510760357191681,WasteBinRecoveryException
 OS_Alerts,GenericAlertTitle,3658443700297733,Внимание
-OS_Alerts,GuppyLogOffNotAllowedBody,186382199081132033,Не удаётся выполнить запрос пользователя. (Ошибка ОС: открытый исполняемый файл DEDAEMON препятствует операции (Исключение ОС: 0xMCPUMULCIQLSS))
+OS_Alerts,GuppyLogOffNotAllowedBody,186382199081132033,Не удаётся выполнить запрос пользователя. (Ошибка ОС: Открытый исполняемый файл DEDAEMON препятствует операции (Исключение ОС: 0xMCPUMULCIQLSS))
 OS_Alerts,HalibutHanoiCrashAlertBody,368498958336,Тебе здесь не место
 OS_Alerts,HalibutHanoiCrashAlertTitle,81461764096,КРИТИЧЕСКАЯ_ОШиБкА
 OS_Alerts,HalibutHanoiCrashFinalAlertBody,388635811840,ВЫЙТИ СЕЙЧАС
@@ -99,32 +99,32 @@ OS_Alerts,InvalidAccessEditBody,3806912557604865,У текущего польз�
 OS_Alerts,InvalidAccessModifyDescription,3669725941850113,У текущего пользователя нет прав на изменение: {0}.
 OS_Alerts,InvalidAccessTitle,3658443696103424,Доступ к файлу
 OS_Alerts,InvalidOperationAlertTitle,3806912557604869,Недопустимая операция
-OS_Alerts,InvalidSaveLocationAlertBody,214313140873060352,Создание файлов в текущем расположении запрещено
-OS_Alerts,IsSlowlyAlertBody,208510760340414464,"В системе закончилась память. Раньше она была запятнана стыдом. Чтобы продолжить, нужно его забыть."
+OS_Alerts,InvalidSaveLocationAlertBody,214313140873060352,Создание файлов в текущей директории запрещено
+OS_Alerts,IsSlowlyAlertBody,208510760340414464,"В системе закончилась память. Когда-то её отягощал стыд. Чтобы продолжить, забудьте его."
 OS_Alerts,MaxNumberOfFilesInDirectoryBody,199105486928207872,Каталог достиг максимально допустимого количества файлов.
 OS_Alerts,MaxNumberOfFilesInDirectoryTitle,199105486898847744,Превышен лимит файлов в каталоге
 OS_Alerts,MultipleFileNoEditPermissionBody,3806912557604868,У текущего пользователя нет прав на изменение {0} файл(ов) в текущем выборе.
 OS_Alerts,MultipleFileNoEditPermissionDescription,3669725941850116,У текущего пользователя нет прав на изменение {0}% файл(ов) в текущем выборе
-OS_Alerts,NavigationExceptionAlertBody,3806912557604866,"Не удаётся открыть файл, путь = 'X:\Users\...\{0}' (Ошибка ОС: не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0x6E6176657272))"
-OS_Alerts,NavigationExceptionAlertDescription,3669725941850114,"Не удаётся открыть файл, путь = 'X:\\Users\\...\\{0}' (Ошибка ОС: не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0xMEVXRBZYOTG))"
-OS_Alerts,NavigationExceptionHalibutBody,3806912557604867,"Не удаётся открыть файл, путь = 'X:\\Users\\Halibut\\...\\{0}' (Ошибка DE_Error: файл вне CAVE не найден. ЗАСТРЯЛО ДО РЕШЕНИЯ ГОЛОВОЛОМКИ. (Исключение PLYBS: YFIHEWXUWXCG))"
-OS_Alerts,NavigationExceptionHalibutDescription,3669725941850115,"Не удаётся открыть файл, путь = 'X:\\Users\\Halibut\\...\\{0}' (Ошибка ОС: не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0xMEVXRBZYOTG))"
-OS_Alerts,NoArcadeCreditsInInventoryBody,201525247586852864,Невозможно сыграть. Для игры на аркадных автоматах в инвентаре нужна ИГРОВАЯ КАРТА.
+OS_Alerts,NavigationExceptionAlertBody,3806912557604866,"Не удаётся открыть файл, путь = 'X:\Users\...\{0}' (Ошибка ОС: Не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0x6E6176657272))"
+OS_Alerts,NavigationExceptionAlertDescription,3669725941850114,"Не удаётся открыть файл, путь = 'X:\\Users\\...\\{0}' (Ошибка ОС: Не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0xMEVXRBZYOTG))"
+OS_Alerts,NavigationExceptionHalibutBody,3806912557604867,"Не удаётся открыть файл, путь = 'X:\\Users\\Halibut\\...\\{0}' (Ошибка DE_Error: Файл вне CAVE не найден. ЗАСТРЯЛО ДО РЕШЕНИЯ ГОЛОВОЛОМКИ. (Исключение PLYBS: YFIHEWXUWXCG))"
+OS_Alerts,NavigationExceptionHalibutDescription,3669725941850115,"Не удаётся открыть файл, путь = 'X:\\Users\\Halibut\\...\\{0}' (Ошибка ОС: Не найден синтаксис имени файла, каталога или метки тома. (Исключение FILESYS: 0xMEVXRBZYOTG))"
+OS_Alerts,NoArcadeCreditsInInventoryBody,201525247586852864,Не удалось начать игру. Для игры на аркадных автоматах в инвентаре должна быть ИГРОВАЯ КАРТА.
 OS_Alerts,NoInternetAlertBody,3806912557604874,Подключение к интернету недоступно.
 OS_Alerts,NoInternetAlertTitle,3806912557604873,Ошибка сети
 OS_Alerts,OutOfMemoryExceptionAlertBody,3806912557604886,В системе закончилась память. Необходимо закрыть {0} окно(а).
 OS_Alerts,OutOfMemoryExceptionAlertTitle,3806912557604885,OutOfMemoryException
 OS_Alerts,OutOfMemoryExceptionSysNotificationBody,64189738479353856,"Превышено общее количество окон, очистка памяти от неиспользуемых вкладок."
 OS_Alerts,OutsideDemoExceptionBody,3806912553410563,OutsideDemoExceptionBody
-OS_Alerts,OutsideDemoExceptionDescription,3658443700297732,Произошла ошибка при попытке открыть программу. (Ошибка ОС: несовместимая версия ОС. (OutsideDemoScopeException: 0x70617469656E63650A))
+OS_Alerts,OutsideDemoExceptionDescription,3658443700297732,Произошла ошибка при попытке открыть программу. (Ошибка ОС: Несовместимая версия ОС. (OutsideDemoScopeException: 0x70617469656E63650A))
 OS_Alerts,PasswordResetAlertBody,3806912557604884,Пароль пользователя успешно сброшен.
-OS_Alerts,PauseCutsceneBody,216000698808000513,OK — продолжить
+OS_Alerts,PauseCutsceneBody,216000698808000513,"Чтобы продолжить, нажмите ОК"
 OS_Alerts,PauseCutsceneTitle,216000698808000512,ПАУЗА
-OS_Alerts,ProjectXDemoAlertBody,3806912557604875,"Не удаётся открыть файл, путь = 'X:/Users/Halibut/Desktop/projectX' (Ошибка ОС: несовместимая версия ОС. (OutsideDemoScopeException: 0x800734004))"
-OS_Alerts,PuzzleDependentFilepathNoRenameBody,199105486928207873,Что-то мешает изменить путь этого файла (Ошибка ОС: открытый исполняемый файл DEDAEMON препятствует операции (Исключение ОС: 0xVFVCGTTK))
+OS_Alerts,ProjectXDemoAlertBody,3806912557604875,"Не удаётся открыть файл, путь = 'X:/Users/Halibut/Desktop/projectX' (Ошибка ОС: Несовместимая версия ОС. (OutsideDemoScopeException: 0x800734004))"
+OS_Alerts,PuzzleDependentFilepathNoRenameBody,199105486928207873,Что-то мешает изменить путь этого файла (Ошибка ОС: Открытый исполняемый файл DEDAEMON препятствует операции (Исключение ОС: 0xVFVCGTTK))
 OS_Alerts,RecoverWasteBinBody,208510760357191680,Восстановить значок WasteBin?
 OS_Alerts,RecoverWasteBinTitle,208510760352997377,WasteBinRecovery
-OS_Alerts,RoomieAlreadyUnlockedBody,201525247586852865,Сосед уже добавлен.
+OS_Alerts,RoomieAlreadyUnlockedBody,201525247586852865,Roomie уже добавлен.
 OS_Alerts,SafeModeInitBody,209566141984530434,NextOS перешла в БЕЗОПАСНЫЙ РЕЖИМ из-за проблем со стабильностью. Потенциально нестабильные процессы временно отключены.
 OS_Alerts,SafeModeInitTitle,209566141984530433,SafeModeTriggerAlert
 OS_Alerts,SecurityQuestion_MaxProfile_Ans1,102892066348982278,Стегозавр
@@ -132,9 +132,9 @@ OS_Alerts,SecurityQuestion_MaxProfile_Ans1_2,215821849998647296,Стегозав
 OS_Alerts,SecurityQuestion_MaxProfile_Ans2,102892066348982279,Каскадия
 OS_Alerts,SecurityQuestion_MaxProfile_Ans2_2,215821849998647297,Каскадия
 OS_Alerts,SecurityQuestion_MaxProfile_Ans3,102892066348982280,Файза
-OS_Alerts,SecurityQuestion_MaxProfile_Hint1,102892066348982275,"по-детски, знаю… ПРИМИРИСЬ С ЭТИМ!! ¯\_(ツ)_/¯ B)"
+OS_Alerts,SecurityQuestion_MaxProfile_Hint1,102892066348982275,"по-детски, знаю… СМИРИСЬ С ЭТИМ!! ¯\_(ツ)_/¯ B)"
 OS_Alerts,SecurityQuestion_MaxProfile_Hint2,102892066348982276,"САМАЯ КРУТАЯ художественная школа на северо-западе, ну естественно"
-OS_Alerts,SecurityQuestion_MaxProfile_Hint3,102892066348982277,"да, включая второе имя… далеко не так круто, как MAX1MUS!"
+OS_Alerts,SecurityQuestion_MaxProfile_Hint3,102892066348982277,"да, включая моё второе имя… далеко не так круто, как MAX1MUS!"
 OS_Alerts,SecurityQuestion_MaxProfile_IncorrectAnswer,102892066348982282,Неверный ответ!
 OS_Alerts,SecurityQuestion_MaxProfile_Q1,102892066348982272,Какой мой любимый динозавр?
 OS_Alerts,SecurityQuestion_MaxProfile_Q2,102892066348982273,Что означает ПЕРВАЯ БУКВА названия моей будущей школы? 
@@ -157,20 +157,20 @@ OS_Alerts,SysNotifGAdminFigureheadWrite,162826729678692352,Новый файл �
 OS_Alerts,SysNotifGHalibutFishingLureWrite,208933395968811008,Новый файл добавлен в <b>folder:INVENTORY</b> пользователя <b>USER:M4x1mus</b> — <b>fishingLure.img</b>
 OS_Alerts,SysNotifWriteChronologEntryBody,94992533543706624,Доступна новая запись Chronolog для заполнения.
 OS_Alerts,SystemNotificationNewFileAdded,109602412539404288,Добавлен новый файл: {0}
-OS_Alerts,TemplePodiumPathChosen,173268375868268545,Око Гора зафиксировало ваш выбор пути
-OS_Alerts,TimeSettingsApplyChangesError,194033432449245185,Не удаётся окончательно изменить системные дату и время (Ошибка TimeSettings: нарушение повествовательной темпоральности недопустимо (Исключение T1M3S3T: 0xIWTFSAG))
+OS_Alerts,TemplePodiumPathChosen,173268375868268545,Око Гора запомнило выбранный вами путь
+OS_Alerts,TimeSettingsApplyChangesError,194033432449245185,Не удаётся окончательно изменить системные дату и время (Ошибка TimeSettings: Вмешательство в повествовательную темпоральность недопустимо (Исключение T1M3S3T: 0xIWTFSAG))
 OS_Alerts,TimeSettingsApplyChangesTitle,194033432449245184,TimeSettings Exception
 OS_Alerts,UnsavedChangesBody,200785471489433600,"В этом файле есть несохранённые изменения. Вы уверены, что хотите закрыть его? Все изменения будут потеряны."
-OS_Alerts,UnsavedChangesTitle,200785471472656384,Правки не сохранены
+OS_Alerts,UnsavedChangesTitle,200785471472656384,Изменения не сохранены
 OS_Alerts,WasteBinDeleteFileExceptionBody,3806912557604880,"У текущего пользователя нет прав на удаление: {0}%."""
-OS_Alerts,WasteBinDeleteNonPlayerCreatedBody,183517156652081152,"Не удаётся окончательно удалить файл, путь = 'X:\\Users\\...\\{0}' (Ошибка ОС: не удалось определить наличие у пользователя нужных прав (Исключение FILESYS: 0xVFVCGTTK))"
+OS_Alerts,WasteBinDeleteNonPlayerCreatedBody,183517156652081152,"Не удаётся окончательно удалить файл, путь = 'X:\\Users\\...\\{0}' (Ошибка ОС: Не удалось определить наличие у пользователя нужных прав (Исключение FILESYS: 0xVFVCGTTK))"
 OS_Alerts,WasteBinEmptyAlertBody,3806912553410564,"Вы уверены, что хотите окончательно удалить объекты из WasteBin?"
 OS_Alerts,WasteBinEmptyAlertDescription,3658443700297734,"Вы уверены, что хотите окончательно удалить объекты из WasteBin?"
-OS_Alerts,WasteBinEmptySecondAlertBody,3806912553410565,"Вы ДЕЙСТВИТЕЛЬНО уверены? Эти файлы станут недоступны, пока вы не начнёте сохранение заново."
-OS_Alerts,WasteBinEmptySecondAlertDescription,3658443700297735,"Вы ДЕЙСТВИТЕЛЬНО уверены? Эти файлы станут недоступны, пока вы не начнёте сохранение заново."
+OS_Alerts,WasteBinEmptySecondAlertBody,3806912553410565,"Вы ДЕЙСТВИТЕЛЬНО уверены? Эти файлы будут недоступны, пока вы не перезапустите файл сохранения."
+OS_Alerts,WasteBinEmptySecondAlertDescription,3658443700297735,"Вы ДЕЙСТВИТЕЛЬНО уверены? Эти файлы будут недоступны, пока вы не перезапустите файл сохранения."
 OS_Alerts,WasteBinOpenFileAlertBody,3806912553410566,"Файл нельзя открыть, находясь в WasteBin. Восстановить его в исходном расположении?"
 OS_Alerts,WasteBinOpenFileAlertDescription,3658443700297736,"Файл нельзя открыть, находясь в WasteBin. Восстановить его в исходном расположении?"
-OS_Alerts,WhatIsLeftAlertBody,193319471701549057,"В системе закончилась память. Раньше она была захламлена чувством вины. Чтобы продолжить, нужно её отпустить."
+OS_Alerts,WhatIsLeftAlertBody,193319471701549057,"В системе закончилась память. Когда-то её захламляло чувство вины. Чтобы продолжить, отпустите его."
 OS_misc_contents,,77882855525441537,"T3 G3T, сертифицированная система OTE.
 Copyright (c) 1995, Spiralsoft Electronics Inc."
 OS_misc_contents,,77882855525441538,"Процессор Galleon 350, ACPI BIOS Rev 100"
