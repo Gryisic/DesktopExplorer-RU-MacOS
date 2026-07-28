@@ -682,11 +682,11 @@ Software,WasteBin_Title,125049797440692229,WasteBin
 Software,WebSurfer_Title,128444163706314752,WebSurfer2
 Software,WormHole_Title,125049797440692239,WormHole
 TerminalCommandOutput,,136631079006101504,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, СОКРАТИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, У ПОЛЬЗОВАТЕЛЯ ВЫРОСЛА ЧУВСТВИТЕЛЬНОСТЬ К ЭТОМУ ИЗОБРАЖЕНИЮ И ЕГО СМЫСЛУ."
-TerminalCommandOutput,,136631079006101505,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, ПОЧТИ НЕ ИЗМЕНИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ ПОЛНОСТЬЮ СТЁР ПРЕДЫДУЩЕЕ ПРОХОЖДЕНИЕ ИЗ ПАМЯТИ. "
+TerminalCommandOutput,,136631079006101505,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, ПОЧТИ НЕ ИЗМЕНИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ ПОЛНОСТЬЮ СТЁР ПРЕДЫДУЩЕЕ ПРОХОЖДЕНИЕ ИЗ СВОЕЙ ПАМЯТИ. "
 TerminalCommandOutput,,136631079006101506,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, УВЕЛИЧИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ УТРАТИЛ СВЯЗЬ С ЭТИМ ОБРАЗОМ."
-TerminalCommandOutput,,136631079006101507,"ПУТЬ, ВЫБРАННЫЙ В ХРАМЕ, — ANUBIS. ПОЛЬЗОВАТЕЛЯ ПО-ПРЕЖНЕМУ НЕ ТРЕВОЖИТ ДУХОВНЫЙ СТРАХ. ВОЗМОЖНО, НЕ ПОМНИТ, ЧТО ЭТО БЫЛ ТОТ ЖЕ ВЫБОР, ЧТО И РАНЬШЕ."
-TerminalCommandOutput,,136631079006101508,"ПУТЬ, ВЫБРАННЫЙ В ХРАМЕ, — TOT. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЯ ПРИТЯГИВАЕТ ДУШЕВНОЕ СМЯТЕНИЕ ИЗ-ЗА ПОВТОРЯЮЩЕЙСЯ ПОТЕРИ ПАМЯТИ."
-TerminalCommandOutput,,136631079006101509,"ПУТЬ, ВЫБРАННЫЙ В ХРАМЕ, — RA. ПОЛЬЗОВАТЕЛЬ НЕ ОСТАНОВИЛСЯ ПЕРЕД УПОМИНАНИЯМИ ОБОЖЖЁННОЙ КОЖИ. ПОВЫШЕННАЯ ВЕРОЯТНОСТЬ ЧЁРСТВОСТИ ИЛИ ОТРИЦАНИЯ СМЕРТИ БРАТА."
+TerminalCommandOutput,,136631079006101507,"В ХРАМЕ ВЫБРАН ПУТЬ ANUBIS. ПОЛЬЗОВАТЕЛЬ ПО ПРЕЖНЕМУ НЕ ИСПЫТЫВАЕТ МИСТИЧЕСКОГО СТРАХА. ВОЗМОЖНО, НЕ ПОМНИТ, ЧТО УЖЕ СОВЕРШАЛ ЭТОТ ВЫБОР РАНЬШЕ."
+TerminalCommandOutput,,136631079006101508,"В ХРАМЕ ВЫБРАН ПУТЬ TOT. ВОЗМОЖНО, ПОВЕДЕНИЕ ПОЛЬЗОВАТЕЛЯ ОБУСЛОВЛЕНО ПСИХИЧЕСКИМ СТРЕССОМ, ВОЗНИКАЮЩИМ ИЗ-ЗА ПОВТОРЯЮЩИХСЯ СЛУЧАЕВ ПОТЕРИ ПАМЯТИ."
+TerminalCommandOutput,,136631079006101509,"В ХРАМЕ ВЫБРАН ПУТЬ RA. ПОЛЬЗОВАТЕЛЬ НЕ ОСТАНОВИЛСЯ ДАЖЕ ПОСЛЕ УПОМИНАНИЙ ОБОЖЖЁННОЙ КОЖИ. ПОВЫШЕННАЯ ВЕРОЯТНОСТЬ ЧЁРСТВОСТИ ИЛИ ПРЕНЕБРЕЖЕНИЯ ФАКТОМ СМЕРТИ БРАТА."
 TerminalCommandOutput,,136631079006101510,"КОЛИЧЕСТВО СОЗДАННЫХ ФАЙЛОВ NPG РЕЗКО СОКРАТИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ ЗАБЫЛ О СУЩЕСТВОВАНИИ ПРОГРАММЫ NPG ЛИБО ПОЛНОСТЬЮ ИГНОРИРУЕТ СВОЁ СОСТОЯНИЕ ПАМЯТИ."
 TerminalCommandOutput,,136631079006101511,КОЛИЧЕСТВО СОЗДАННЫХ ФАЙЛОВ NPG СОКРАТИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО УЛУЧШЕНИЕ ПАМЯТИ ПОЛЬЗОВАТЕЛЯ ЛИБО ЧАСТИЧНОЕ ИГНОРИРОВАНИЕ СВОЕГО СОСТОЯНИЯ ПАМЯТИ.
 TerminalCommandOutput,,136631079006101512,"КОЛИЧЕСТВО ФАЙЛОВ NPG ПРИМЕРНО ОДИНАКОВО МЕЖДУ ПРОХОЖДЕНИЯМИ. ПОЛЬЗОВАТЕЛЬ ВСЁ ЕЩЁ ВЫНУЖДЕН ПОЛАГАТЬСЯ НА NPG, ЧТОБЫ ПОМНИТЬ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ ПРОСТО БАЛУЕТСЯ С ПРОГРАММОЙ NPG."
@@ -744,11 +744,11 @@ TerminalCommandOutput,,148883796122394639,"тайны о твоём дяде,
 постичь, capisce? "
 TerminalCommandOutput,CMD_Base_Chrono_Empty,98942774013845504,"Команда утилит Chronolog
 Доступные утилиты: <param>RESTORE</param>
-Использование - <cmd>CHRONO</cmd> <param>RESTORE</param>. Пытается восстановить повреждённые или испорченные записи Chronolog"
-TerminalCommandOutput,CMD_Base_Chrono_Restore,98942774022234113,"Введите <param>filepath</param> для файла записи, который нужно восстановить:"
-TerminalCommandOutput,CMD_Base_Chrono_Restore_NoEntryFound,167405071308414976,<color=red>[ТРЕВОГА]</color>: запись <cmd>CHRONO</cmd> не найдена
+Использование - <cmd>CHRONO</cmd> <param>RESTORE</param>. Пытается восстановить повреждённые записи Chronolog"
+TerminalCommandOutput,CMD_Base_Chrono_Restore,98942774022234113,"Укажите <param>filepath</param> файла, из которого следует восстановить запись Chronolog:"
+TerminalCommandOutput,CMD_Base_Chrono_Restore_NoEntryFound,167405071308414976,<color=red>[ВНИМАНИЕ]</color>: запись <cmd>CHRONO</cmd> не найдена
 TerminalCommandOutput,CMD_Base_Chrono_Restore_Success,99003895970258944,Успешно восстановлено <param>'{0}'</param>. Открываю Chronolog…
-TerminalCommandOutput,CMD_Base_Chrono_WrongArg,98942774022234112,<color=red>[ТРЕВОГА]</color>: '{0}' — недопустимый аргумент для команды <cmd>CHRONO</cmd>
+TerminalCommandOutput,CMD_Base_Chrono_WrongArg,98942774022234112,<color=red>[ВНИМАНИЕ]</color>: '{0}' — недопустимый аргумент для команды <cmd>CHRONO</cmd>
 TerminalCommandOutput,CMD_Base_Time_Empty,8062278329786368,Сейчас: <param>{0}</param>
 TerminalCommandOutput,CMD_Base_Uninstall_DesktopExplorer,20791134830592,ОШИБКА - НЕт дОступа к рЕестру deskTop exploRer
 TerminalCommandOutput,CMD_Base_Uninstall_Empty,20631285710848,Укажите программу для <cmd>UNINSTALL</cmd>
@@ -784,20 +784,20 @@ TerminalCommandOutput,CMD_Shell_Bootcopy_Empty,18977731690496,"{0}
 (C)Copyright Wilson Systems 1981-1994."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminDiagnostics,100395463532863490,<color=lightblue>DESKTOPEXPLORER</color> В ДАННЫЙ МОМЕНТ УДАЛЁН ИЗ ПРОФИЛЯ <color=yellow>ADMIN</color> — ЗАПУСТИТЬ ДИАГНОСТИКУ? 
 TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminPasswordAccepted,100842390359629824,ПАРОЛЬ ПРИНЯТ. ПАПКА <color=lightblue>DE_INSTALLER</color> РАЗБЛОКИРОВАНА
-TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminPasswordRecovery,100395463532863491,"<color=lightblue>DE_INSTALLER</color> ОБНАРУЖЕН ЗА: <color=yellow>LOCKED FOLDER</color> . . .
+TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminPasswordRecovery,100395463532863491,"<color=lightblue>DE_INSTALLER</color> ОБНАРУЖЕН ВНУТРИ: <color=yellow>LOCKED FOLDER</color> . . .
 ЗАПУСК <color=orange>PWD_RECOVERY TOOL</color> . . .
 ГОТОВО
-ОТОБРАЖЕНИЕ PLYBS <color=orange>ЗАШИФРОВАННОГО</color> <param>PASSWORD</param>
+ОТОБРАЖЕНИЕ PLYBS <color=orange>ЗАШИФРОВАННОГО</color> <param>ПАРОЛЯ</param>
 <color=orange>YNGEGSKY</color>
 
-ВВЕДИТЕ <color=green>РАСШИФРОВАННЫЙ</color> <param>PASSWORD</param>, ЧТОБЫ НАЧАТЬ УСТАНОВКУ:"
+ВВЕДИТЕ <color=green>РАСШИФРОВАННЫЙ</color> <param>ПАРОЛЬ</param>, ЧТОБЫ НАЧАТЬ УСТАНОВКУ:"
 TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminPasswordWrong,100842390359629825,"НЕВЕРНЫЙ РАСШИФРОВАННЫЙ ПАРОЛЬ — ПОПРОБУЙТЕ СНОВА ИЛИ ВВЕДИТЕ <color=orange>BACK</color>, ЧТОБЫ ВЕРНУТЬСЯ В МЕНЮ"
 TerminalCommandOutput,CMD_Shell_DEAnalysis_AdminRecoverPwd,156959268676820992,TAROCCHI
 TerminalCommandOutput,CMD_Shell_DEAnalysis_BeatTimeFast,134403970770657296,"<color=lightblue>DE</color> ПРОЙДЕН БЫСТРЕЕ, ЧЕМ РАНЬШЕ. ПОЛЬЗОВАТЕЛЬ, ДОЛЖНО БЫТЬ, ПОМНИТ ИНФОРМАЦИЮ ИЗ ПРЕДЫДУЩЕГО ПРОХОЖДЕНИЯ. ПРИЧИНА ВОЗВРАЩЕНИЯ ВСЁ ЕЩЁ НЕИЗВЕСТНА."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_BeatTimeSame,134403970770657297,"<color=lightblue>DE</color> ПРОЙДЕН ПРИМЕРНО ЗА ТО ЖЕ ВРЕМЯ, ЧТО И РАНЬШЕ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ НЕ ПОМНИТ ИНФОРМАЦИЮ ИЗ ПРЕДЫДУЩЕГО ПРОХОЖДЕНИЯ. ПРИЧИНОЙ ВОЗВРАЩЕНИЯ МОЖЕТ БЫТЬ ПОДТВЕРЖДЕНИЕ ВЕРДИКТА."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_BeatTimeSlow,134403970770657298,"<color=lightblue>DE</color> ПРОЙДЕН МЕДЛЕННЕЕ, ЧЕМ РАНЬШЕ. ПОЛЬЗОВАТЕЛЬ, ПОХОЖЕ, НЕ ПОМНИТ НИКАКОЙ ИНФОРМАЦИИ ИЗ ПРЕДЫДУЩЕГО ПРОХОЖДЕНИЯ. ПРИЧИНОЙ ВОЗВРАЩЕНИЯ МОЖЕТ БЫТЬ ПОТЕРЯ ПАМЯТИ. РЕКОМЕНДУЕТСЯ СВЕРИТЬ ДАННЫЕ С ПОЛЬЗОВАТЕЛЕМ <color=orange>HALIBUT</color>."
-TerminalCommandOutput,CMD_Shell_DEAnalysis_Empty,99039718480535552,"<color=red>[ТРЕВОГА]</color>: ИНСТРУМЕНТ АНАЛИЗА <color=lightblue>DESKTOP EXPLORER</color> ЗАБЛОКИРОВАН. 
-Введите пароль, чтобы включить скрипт оболочки."
+TerminalCommandOutput,CMD_Shell_DEAnalysis_Empty,99039718480535552,"<color=red>[ВНИМАНИЕ]</color>: ИНСТРУМЕНТ АНАЛИЗА <color=lightblue>DESKTOP EXPLORER</color> ЗАБЛОКИРОВАН. 
+Введите пароль, чтобы разрешить выполнение shell-скрипта."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_FirstStoreCoincidence,134403970770657292,"ПОЛЬЗОВАТЕЛЬ ВЫБРАЛ ТУ ЖЕ ПЕРВУЮ ГОЛОВОЛОМКУ ДЛЯ ПРОХОЖДЕНИЯ, ЧТО И РАНЬШЕ. НЕИЗВЕСТНО, БЫЛО ЛИ ПОВТОРЕНИЕ ОСОЗНАННЫМ ИЛИ СЛУЧАЙНЫМ."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_FirstStoreDifference,134403970770657291,"ПОЛЬЗОВАТЕЛЬ ВЫБРАЛ ДРУГУЮ ПЕРВУЮ ГОЛОВОЛОМКУ ДЛЯ ПРОХОЖДЕНИЯ, ЧЕМ РАНЬШЕ. НЕИЗВЕСТНО, ПОМНИТ ЛИ ПОЛЬЗОВАТЕЛЬ РЕШЕНИЕ ИЗ 1-ГО ПРОХОЖДЕНИЯ."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_FleetingFaceHigh,134403970770657281,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, УВЕЛИЧИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ УТРАТИЛ СВЯЗЬ С ЭТИМ ОБРАЗОМ."
@@ -805,7 +805,7 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_FleetingFaceLow,134403970753880064,"�
 TerminalCommandOutput,CMD_Shell_DEAnalysis_FleetingFaceMid,134403970770657280,"ВРЕМЯ, В ТЕЧЕНИЕ КОТОРОГО БЫЛ ОТКРЫТ FLEETING_FACE.IMG, ПОЧТИ НЕ ИЗМЕНИЛОСЬ МЕЖДУ ПРОХОЖДЕНИЯМИ. ВОЗМОЖНО, ПОЛЬЗОВАТЕЛЬ ПОЛНОСТЬЮ СТЁР ПРЕДЫДУЩЕЕ ПРОХОЖДЕНИЕ ИЗ ПАМЯТИ. "
 TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutAbnormalities,133308028541722624,"СПИСОК (5) АНОМАЛИЙ
 
-<color=green>1.</color> <color=lightblue>DE</color> БЫЛ ПЕРЕУСТАНОВЛЕН ВОПРЕКИ ПРЕДЫДУЩЕМУ ВЕРДИКТУ. СТЕПЕНЬ ВОЗДЕЙСТВИЯ ОБРАЗА МОГЛА БЫТЬ ПЕРЕОЦЕНЕНА. ВОЗМОЖНО, DE БЫЛ СЛУЧАЙНО ЗАПУЩЕН ПОВТОРНО ИЗ-ЗА АМНЕЗИИ.
+<color=green>1.</color> <color=lightblue>DE</color> БЫЛ ПЕРЕУСТАНОВЛЕН, НЕСМОТРЯ НА ПРЕДЫДУЩЕЕ ЗАКЛЮЧЕНИЕ. СИЛА ВОЗДЕЙСТВИЯ ОБРАЗА МОГЛА БЫТЬ ПЕРЕОЦЕНЕНА. ВОЗМОЖНО, DE БЫЛ СЛУЧАЙНО ПОСЕЩЁН ПОВТОРНО ИЗ-ЗА АМНЕЗИИ.
 
 <color=green>2.</color> {0}
 
@@ -813,28 +813,28 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutAbnormalities,1333080285417226
 
 <color=green>4.</color> {2}
 
-<color=green>5.</color> ПОЛЬЗОВАТЕЛЬ СМОГ ПРОЙТИ <color=lightblue>DE</color>. ТЕЗИС ПРЕДЫДУЩЕГО ВЕРДИКТА ПОСТАВЛЕН ПОД СОМНЕНИЕ.
+<color=green>5.</color> ПОЛЬЗОВАТЕЛЬ СМОГ ПРОЙТИ <color=lightblue>DE</color>. ТЕЗИС ПРЕДЫДУЩЕГО ЗАКЛЮЧЕНИЯ ПОСТАВЛЕН ПОД СОМНЕНИЕ.
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutConclusion,100395463528669190,"<color=lightblue>DE</color> ВЕРДИКТ ПО ПОЛЬЗОВАТЕЛЮ: <color=yellow>HALIBUT</color>
+TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutConclusion,100395463528669190,"<color=lightblue>DE</color> ЗАКЛЮЧЕНИЕ ПО ПОЛЬЗОВАТЕЛЮ: <color=yellow>HALIBUT</color>
 
 <color=green>[07-12-1998 00:00]</color> - ИСЦЕЛЕНИЕ ЧЕРЕЗ ПОТЕРЮ ПАМЯТИ.
-* ПОВЕДЕНИЕ ПОЛЬЗОВАТЕЛЯ УКАЗЫВАЕТ НА УХУДШЕНИЕ ПАМЯТИ, ГЛУБОКОЕ СОЖАЛЕНИЕ ПО ПОВОДУ СМЕРТИ БРАТА И РАСТЕРЯННОСТЬ ПРИ ПРИНЯТИИ РОЛИ ОТЦА. 
+* ПОВЕДЕНИЕ ПОЛЬЗОВАТЕЛЯ УКАЗЫВАЕТ НА УХУДШЕНИЕ ПАМЯТИ, ГЛУБОКОЕ СОЖАЛЕНИЕ ПО ПОВОДУ СМЕРТИ БРАТА И РАСТЕРЯННОСТЬ В СВЯЗИ С НЕОБХОДИМОСТЬЮ ВЗЯТЬ НА СЕБЯ РОЛЬ ОТЦА. 
 
-* НАРУШЕНИЯ ПАМЯТИ УСИЛИВАЮТСЯ В СТРЕССОВЫХ УСЛОВИЯХ. ПОЛЬЗОВАТЕЛЬ НЕ ПРОЯВЛЯЕТ ПРИЗНАКОВ ПРЕОДОЛЕНИЯ СТРАХА И ТРАВМЫ. 
+* НАРУШЕНИЯ ПАМЯТИ УСИЛИВАЮТСЯ В СТРЕССОВЫХ УСЛОВИЯХ. ПОЛЬЗОВАТЕЛЬ НЕ ДЕМОНСТРИРУЕТ ПРИЗНАКОВ ПРЕОДОЛЕНИЯ СТРАХА И ПСИХОЛОГИЧЕСКОЙ ТРАВМЫ. 
 
-* ПОЛЬЗОВАТЕЛЮ СЛЕДУЕТ ВОСПОЛЬЗОВАТЬСЯ ЭТИМ СОСТОЯНИЕМ. ПРИНЯТЬ СТРАХ И ИСЦЕЛИТЬСЯ, ЗАБЫВ ВСЁ, ВКЛЮЧАЯ КАЖДУЮ ТРЕВОЖНУЮ МЫСЛЬ.
+* ПОЛЬЗОВАТЕЛЮ СЛЕДУЕТ ИСПОЛЬЗОВАТЬ ЭТО СОСТОЯНИЕ. НЕ СОПРОТИВЛЯТЬСЯ СТРАХУ И ИСЦЕЛИТЬСЯ, ЗАБЫВ ВСЁ, ВКЛЮЧАЯ КАЖДУЮ МУЧИТЕЛЬНУЮ МЫСЛЬ.
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
 TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutFear1,179459623029301248,ДУХОВНЫМ
 TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutFear2,179459623046078464,БЕЗУМИЕМ
 TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutFear3,179459623046078465,УВЕЧЬЯМИ
-TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutLogs,100395463528669189,"<color=red>[ТРЕВОГА]</color>: ОБНАРУЖЕНО НЕСКОЛЬКО ПРОХОЖДЕНИЙ <color=lightblue>DESKTOP EXPLORER</color> ДЛЯ ПОЛЬЗОВАТЕЛЯ: <color=yellow>HALIBUT</color>
+TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutLogs,100395463528669189,"<color=red>[ВНИМАНИЕ]</color>: ОБНАРУЖЕНО НЕСКОЛЬКО ПРОХОЖДЕНИЙ <color=lightblue>DESKTOP EXPLORER</color> ДЛЯ ПОЛЬЗОВАТЕЛЯ: <color=yellow>HALIBUT</color>
 
-ВВЕДИТЕ <color=yellow>ПУНКТ</color>, ЧТОБЫ ОТКРЫТЬ ЖУРНАЛЫ ПРОХОЖДЕНИЙ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough1,133282122301431808,"СПИСОК ЖУРНАЛОВ — 1-Е ПРОХОЖДЕНИЕ [07-12-1998]
+ВВЕДИТЕ <color=yellow>OPTION</color>, ЧТОБЫ ПОЛУЧИТЬ ДОСТУП К ЛОГАМ ПРОХОЖДЕНИЙ"
+TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough1,133282122301431808,"СПИСОК ЛОГОВ — 1-Е ПРОХОЖДЕНИЕ [07-12-1998]
 
 <color=green>[07-12-1998 00:00]</color> УСТАНОВЩИК <color=lightblue>DE</color> ПОДБРОШЕН
 <color=green>[07-12-1998 17:23]</color> <color=lightblue>DE</color> УСТАНОВЛЕН ПОЛЬЗОВАТЕЛЕМ
@@ -845,16 +845,16 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough1,13328212230143180
 <color=yellow>[ОПИСАНИЕ]</color> : МЕНЬШИЙ СТРАХ ПЕРЕД ДУХОВНЫМ
 ПОВЕДЕНИЕ СООТВЕТСТВУЕТ ТРАВМЕ ПОЛЬЗОВАТЕЛЯ, СВЯЗАННОЙ СО СМЕРТЬЮ БРАТА
 <color=green>[11-22-1998 23:44]</color> <color=lightblue>DE</color> УДАЛЁН ПОЛЬЗОВАТЕЛЕМ ВРУЧНУЮ
-<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ NPG: <color=yellow>934</color>
+<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ NPG-ФАЙЛОВ: <color=yellow>934</color>
 <color=yellow>[ОПИСАНИЕ]</color> : ВСЕГО УДАЛЕНО: <color=yellow>928</color>
-БОЛЬШИНСТВО УДАЛЁННЫХ ФАЙЛОВ СОСТОЯЛО ИЗ ЧАСТИЧНО ДУБЛИРОВАННЫХ ДАННЫХ
+БОЛЬШИНСТВО УДАЛЁННЫХ ФАЙЛОВ СОСТОЯЛО ИЗ ЧАСТИЧНО ДУБЛИРУЮЩИХСЯ ДАННЫХ
 <color=green>[NULL]</color> ЛИМИТ ОТКРЫТЫХ ОКОН ДОСТИГНУТ: <color=yellow>112</color> РАЗ
 <color=yellow>[ОПИСАНИЕ]</color> : ПОЛЬЗОВАТЕЛЬ НЕ ПОМНИЛ/НЕ ПОНИМАЛ ЛИМИТ ПАМЯТИ.
 <color=green>[05-22-1999 00:00]</color> НАБЛЮДАТЕЛЬ <color=lightblue>DE</color> ПЕРЕХОДИТ В <color=orange>РЕЖИМ СНА</color>
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough2,133282122314014720,"СПИСОК ЖУРНАЛОВ — 2-Е ПРОХОЖДЕНИЕ [{0}]
+TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough2,133282122314014720,"СПИСОК ЛОГОВ — 2-Е ПРОХОЖДЕНИЕ [{0}]
 
 <color=green>[{1}]</color> ПРОГРАММА <color=lightblue>DE</color> ПЕРЕУСТАНОВЛЕНА ПОЛЬЗОВАТЕЛЕМ
 <color=green>[{2}]</color> {10}
@@ -864,7 +864,7 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_HalibutPlaythrough2,13328212231401472
 <color=green>[{7}]</color> <color=lightblue>DE</color> ПРОЙДЕНА ПОСЛЕДНЯЯ ГОЛОВОЛОМКА
 <color=green>[NULL]</color> ВРЕМЯ, ЗАТРАЧЕННОЕ ПОЛЬЗОВАТЕЛЕМ НА ПРОХОЖДЕНИЕ <color=lightblue>DE</color>: <color=yellow>{8}</color> МИНУТ
 <color=green>[NULL]</color> КОЛ-ВО ДОСТИЖЕНИЙ ЛИМИТА ВКЛАДОК: {11}
-<color=green>[NULL]</color> КОЛ-ВО СОЗДАННЫХ НОВЫХ NPG: {12}
+<color=green>[NULL]</color> КОЛ-ВО СОЗДАННЫХ НОВЫХ NPG-ФАЙЛОВ: {12}
 <color=green>[{9}]</color> НАБЛЮДАТЕЛЬ <color=lightblue>DE</color> ПЕРЕКЛЮЧЁН НА ПОЛЬЗОВАТЕЛЯ <color=orange>M4X1MUS</color>
 
 ДОПОЛНИТЕЛЬНЫЕ ОПИСАНИЯ ДОБАВЛЕНЫ В: <color=orange>ABNORMALITIES</color>
@@ -876,48 +876,48 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_ImageDifference,134403970770657288,П
 TerminalCommandOutput,CMD_Shell_DEAnalysis_ImageNotAnswered,134403970770657290,"ПОЛЬЗОВАТЕЛЬ НЕ ОТВЕТИЛ НА ТЕСТ НА ДВОЙНОЕ ВОСПРИЯТИЕ. ОТКАЗ ОТВЕЧАТЬ МОЖЕТ БЫТЬ СВЯЗАН С МОДЕЛЬЮ ПОВЕДЕНИЯ, ОСПАРИВАЮЩЕЙ АВТОРИТЕТ."
 TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musAbnormalities,133308028550111234,"СПИСОК (5) АНОМАЛИЙ
 
-<color=green>1.</color> <color=lightblue>DE</color> БЫЛ ПЕРЕУСТАНОВЛЕН ВОПРЕКИ ПРЕДЫДУЩЕМУ ВЕРДИКТУ. ПОДТВЕРЖДЕНИЕ ТОГО, ЧТО ПОЛЬЗОВАТЕЛЬ ВЁЛ СЕБЯ НЕ ТАК, КАК ПРЕДСКАЗЫВАЛ ВЕРДИКТ.
+<color=green>1.</color> <color=lightblue>DE</color> БЫЛ ПЕРЕУСТАНОВЛЕН, НЕСМОТРЯ НА ПРЕДЫДУЩЕЕ ЗАКЛЮЧЕНИЕ. ПОДТВЕРЖДЕНИЕ ТОГО, ЧТО ПОЛЬЗОВАТЕЛЬ ВЁЛ СЕБЯ НЕ ТАК, КАК ПРЕДСКАЗЫВАЛО ЗАКЛЮЧЕНИЕ.
 <color=green>2.</color> {0} 
 <color=green>3.</color> {1} 
 <color=green>4.</color> {2} 
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musConclusion,100395463532863489,"<color=lightblue>DE</color> ВЕРДИКТ ПО ПОЛЬЗОВАТЕЛЮ: <color=yellow>M4X1MUS</color>
+TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musConclusion,100395463532863489,"<color=lightblue>DE</color> ЗАКЛЮЧЕНИЕ ПО ПОЛЬЗОВАТЕЛЮ: <color=yellow>M4X1MUS</color>
 
 <color=green>[12-15-1996 00:00]</color> - ВЫЖИВАНИЕ ЧЕРЕЗ ИСЧЕЗНОВЕНИЕ.
-* ПОВЕДЕНИЕ ПОЛЬЗОВАТЕЛЯ УКАЗЫВАЕТ НА СИЛЬНЫЙ ВНУТРЕННИЙ КОНФЛИКТ. ЖЕЛАНИЕ УГОДИТЬ ДРУГИМ ВСТУПАЕТ В ПРОТИВОРЕЧИЕ С САМОИДЕНТИФИКАЦИЕЙ. 
+* ПОВЕДЕНИЕ ПОЛЬЗОВАТЕЛЯ УКАЗЫВАЕТ НА СИЛЬНЫЙ ВНУТРЕННИЙ КОНФЛИКТ. ЖЕЛАНИЕ УГОДИТЬ ДРУГИМ ВСТУПАЕТ В ПРОТИВОРЕЧИЕ С СОБСТВЕННЫМ «Я». 
 
-* УПОМИНАНИЯ О ПСИХОЛОГИЧЕСКОМ НАСИЛИИ МОГУТ ПРИВЕСТИ К ФИЗИЧЕСКИМ СТОЛКНОВЕНИЯМ. УГРОЗА БЕЗОПАСНОСТИ ВСЕХ ВОВЛЕЧЁННЫХ СТОРОН НЕИЗБЕЖНА.
+* УПОМИНАНИЯ О ПСИХОЛОГИЧЕСКОМ НАСИЛИИ МОГУТ ПРИВЕСТИ К ФИЗИЧЕСКИМ СТОЛКНОВЕНИЯМ. СУЩЕСТВУЕТ НЕПОСРЕДСТВЕННАЯ УГРОЗА БЕЗОПАСНОСТИ ВСЕХ ВОВЛЕЧЁННЫХ СТОРОН.
 
-* ПОЛЬЗОВАТЕЛЮ СЛЕДУЕТ ИСЧЕЗНУТЬ, ЧТОБЫ СОХРАНИТЬ СВОЮ ИДЕНТИЧНОСТЬ. ДЕЙСТВИЕ ВАЖНЕЕ ВОЗМОЖНЫХ ПОСЛЕДСТВИЙ ИЗ-ЗА ПОТРЕБНОСТИ ПОЛЬЗОВАТЕЛЯ В НЕЗАВИСИМОСТИ.
+* ПОЛЬЗОВАТЕЛЮ СЛЕДУЕТ ИСЧЕЗНУТЬ, ЧТОБЫ СОХРАНИТЬ СВОЁ «Я». ДЕЙСТВИЕ ВАЖНЕЕ ВОЗМОЖНЫХ ПОСЛЕДСТВИЙ ИЗ-ЗА ПОТРЕБНОСТИ ПОЛЬЗОВАТЕЛЯ В НЕЗАВИСИМОСТИ.
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musLogs,100395463532863488,"<color=red>[ТРЕВОГА]</color>: ОБНАРУЖЕНО НЕСКОЛЬКО ПРОХОЖДЕНИЙ <color=lightblue>DESKTOP EXPLORER</color> ДЛЯ ПОЛЬЗОВАТЕЛЯ: <color=yellow>M4X1MUS</color>
+TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musLogs,100395463532863488,"<color=red>[ВНИМАНИЕ]</color>: ОБНАРУЖЕНО НЕСКОЛЬКО ПРОХОЖДЕНИЙ <color=lightblue>DESKTOP EXPLORER</color> ДЛЯ ПОЛЬЗОВАТЕЛЯ: <color=yellow>M4X1MUS</color>
 
-ВВЕДИТЕ <color=yellow>ПУНКТ</color>, ЧТОБЫ ОТКРЫТЬ ЖУРНАЛЫ ПРОХОЖДЕНИЙ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musPlaythrough1,133308028550111232,"СПИСОК ЖУРНАЛОВ — 1-Е ПРОХОЖДЕНИЕ [12-15-1996]
+ВВЕДИТЕ <color=yellow>OPTION</color>, ЧТОБЫ ПОЛУЧИТЬ ДОСТУП К ЛОГАМ ПРОХОЖДЕНИЙ"
+TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musPlaythrough1,133308028550111232,"СПИСОК ЛОГОВ — 1-Е ПРОХОЖДЕНИЕ [12-15-1996]
 
 <color=green>[12-15-1996 00:00]</color> УСТАНОВЩИК <color=lightblue>DE</color> ПОДБРОШЕН
 <color=green>[12-15-1996 16:07]</color> <color=lightblue>DE</color> УСТАНОВЛЕН ПОЛЬЗОВАТЕЛЕМ
-<color=green>[01-08-1997 18:32]</color> ПРОЙДЕНА ПЕРВАЯ ГОЛОВОЛОМКА МАГАЗИНА ТЦ: VHS STORE. 
+<color=green>[01-08-1997 18:32]</color> ПЕРВАЯ РЕШЁННАЯ ЗАГАДКА ТОРГОВОГО ЦЕНТРА: VHS STORE. 
 <color=yellow>[ОПИСАНИЕ]</color> : VHS STORE, ВОЗМОЖНО, БЫЛ ВЫБРАН ИЗ-ЗА ПОТРЕБНОСТИ В СОЦИАЛЬНОМ ОДОБРЕНИИ.
-<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ SKT: <color=yellow>26</color>
+<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ SKT-ФАЙЛОВ: <color=yellow>26</color>
 <color=yellow>[ОПИСАНИЕ]</color> : ВСЕГО УДАЛЕНО: <color=yellow>23</color>
-БОЛЬШИНСТВО УДАЛЕНИЙ ФАЙЛОВ БЫЛИ ЗАЧЕРКАНЫ ДО НЕУЗНАВАЕМОСТИ. ВОЗМОЖНЫ ПРИЗНАКИ РАЗДРАЖЕНИЯ.
+БОЛЬШИНСТВО УДАЛЁННЫХ ФАЙЛОВ БЫЛИ ИСЧЁРКАНЫ ДО НЕУЗНАВАЕМОСТИ. ВОЗМОЖНЫ ПРИЗНАКИ ФРУСТРАЦИИ.
 <color=green>[NULL]</color> ОБЩЕЕ ВРЕМЯ, ПРОВЕДЁННОЕ НА ЗАСТАВКАХ: <color=yellow>309634</color> СЕКУНД.
-<color=yellow>[ОПИСАНИЕ]</color> : ЗАФИКСИРОВАН ЛИШЬ ОДИН СЛУЧАЙ НОЧНОГО ПРИСУТСТВИЯ ЗАСТАВКИ. ЧАСЫ, ПРОВЕДЁННЫЕ ПОЛЬЗОВАТЕЛЕМ В ЗАДУМЧИВОСТИ ПЕРЕД ЭКРАНОМ, ВЫЗЫВАЮТ ОПАСЕНИЯ.
+<color=yellow>[ОПИСАНИЕ]</color> : ЗАФИКСИРОВАН ЛИШЬ ОДИН СЛУЧАЙ РАБОТЫ ЗАСТАВКИ В НОЧНОЕ ВРЕМЯ. ЧАСЫ, ПРОВЕДЁННЫЕ ПОЛЬЗОВАТЕЛЕМ В ЗАДУМЧИВОСТИ ПЕРЕД ЭКРАНОМ, ВЫЗЫВАЮТ ОПАСЕНИЯ.
 <color=green>[03-14-1997 00:12]</color> <color=lightblue>DE</color> УДАЛЁН ПОЛЬЗОВАТЕЛЕМ ВРУЧНУЮ
 <color=green>[03-18-1997 19:37]</color> НАБЛЮДАТЕЛЬ <color=lightblue>DE</color> ВРУЧНУЮ УДАЛЁН И ПЕРЕНЕСЁН НА ПОЛЬЗОВАТЕЛЯ: <color=yellow>ADMIN</color>.
 
 <color=orange>====================================</color>
 НАЖМИТЕ <color=yellow>ЛЮБУЮ КЛАВИШУ</color>, ЧТОБЫ ПРОДОЛЖИТЬ"
-TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musPlaythrough2,133308028550111233,"СПИСОК ЖУРНАЛОВ — 2-Е ПРОХОЖДЕНИЕ {0}
+TerminalCommandOutput,CMD_Shell_DEAnalysis_M4x1musPlaythrough2,133308028550111233,"СПИСОК ЛОГОВ — 2-Е ПРОХОЖДЕНИЕ {0}
 
 <color=green>[{1}]</color> ПРОГРАММА <color=lightblue>DE</color> ПЕРЕУСТАНОВЛЕНА
-<color=green>[{2}]</color> ПРОЙДЕНА ПЕРВАЯ ГОЛОВОЛОМКА МАГАЗИНА ТЦ: {3}
-<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ SKT: <color=yellow>{4}</color>
+<color=green>[{2}]</color> ПЕРВАЯ РЕШЁННАЯ ЗАГАДКА ТОРГОВОГО ЦЕНТРА: {3}
+<color=green>[NULL]</color> ВСЕГО СОЗДАНО НОВЫХ SKT-ФАЙЛОВ: <color=yellow>{4}</color>
 <color=green>[NULL]</color> ОБЩЕЕ ВРЕМЯ, ПРОВЕДЁННОЕ НА ЗАСТАВКАХ: <color=yellow>{5}</color> СЕКУНД.
 <color=green>[{6}]</color>  <color=lightblue>DE</color> ПРОЙДЕНА ПОСЛЕДНЯЯ ГОЛОВОЛОМКА
 <color=green>[NULL]</color> ВРЕМЯ, ЗАТРАЧЕННОЕ ПОЛЬЗОВАТЕЛЕМ НА ПРОХОЖДЕНИЕ <color=lightblue>DE</color>: <color=yellow>{7}</color> МИНУТ.
@@ -953,10 +953,10 @@ TerminalCommandOutput,CMD_Shell_DEAnalysis_UserMaximus,156953382575136773,"M4X1M
 TerminalCommandOutput,CMD_Shell_DEAnalysis_UserSelectedAdmin,131169647279988738,ОТОБРАЖЕНИЕ ДОСТУПНОЙ ИНФОРМАЦИИ О ПОЛЬЗОВАТЕЛЕ: <color=yellow>ADMIN</color>
 TerminalCommandOutput,CMD_Shell_DEAnalysis_UserSelectedHalibut,131169647279988736,ОТОБРАЖЕНИЕ ДОСТУПНОЙ ИНФОРМАЦИИ О ПОЛЬЗОВАТЕЛЕ: <color=yellow>HALIBUT</color>
 TerminalCommandOutput,CMD_Shell_DEAnalysis_UserSelectedM4x1mus,131169647279988737,ОТОБРАЖЕНИЕ ДОСТУПНОЙ ИНФОРМАЦИИ О ПОЛЬЗОВАТЕЛЕ: <color=yellow>M4X1MUS</color>
-TerminalCommandOutput,CMD_Shell_DEAnalysis_WrongKeyPwd,179053174503497728,"<color=red>[ТРЕВОГА]</color>: НЕВЕРНЫЙ ПАРОЛЬ.
+TerminalCommandOutput,CMD_Shell_DEAnalysis_WrongKeyPwd,179053174503497728,"<color=red>[ВНИМАНИЕ]</color>: НЕВЕРНЫЙ ПАРОЛЬ.
 Этот пароль соответствует <color=yellow>ПРИМЕРУ ИСПОЛЬЗОВАНИЯ КЛЮЧА</color>. Используйте правильный <param>квадрат ключа дешифровки</param> и попробуйте снова."
-TerminalCommandOutput,CMD_Shell_DEAnalysis_WrongPwd,99349707753512960,"<color=red>[ТРЕВОГА]</color>: НЕВЕРНЫЙ ПАРОЛЬ
-Введите правильный пароль, чтобы включить скрипт оболочки."
+TerminalCommandOutput,CMD_Shell_DEAnalysis_WrongPwd,99349707753512960,"<color=red>[ВНИМАНИЕ]</color>: НЕВЕРНЫЙ ПАРОЛЬ
+Введите правильный пароль, чтобы разрешить выполнение shell-скрипта."
 TerminalCommandOutput,CMD_Shell_Error,157707626215366657,ОШИБКА
 TerminalCommandOutput,CMD_Shell_Failed,157707626215366658,СБОЙ
 TerminalCommandOutput,CMD_Shell_HalUninstall_StartOutput,158101707227652097,"ИНСТРУМЕНТ УПРАВЛЕНИЯ <color=yellow>DE-DAEMON</color>
@@ -971,23 +971,23 @@ TerminalCommandOutput,CMD_Shell_MaxUnintsall_Opt3_output,158117080572354560,"<co
 
 РАЗРУШИТЕЛЬНЫЕ ИЗМЕНЕНИЯ БУДУТ <color=red>НЕОБРАТИМЫМИ</color> И НЕ МОГУТ БЫТЬ ОТМЕНЕНЫ. <color=orange>Я МОГУ ТЕБЕ ПОМОЧЬ</color> <color=green>ГУППИ</color>. ВЫ ДЕЙСТВИТЕЛЬНО ХОТИТЕ ПРОДОЛЖИТЬ?"
 TerminalCommandOutput,CMD_Shell_MenuBack,100395463528669184,"Введите <color=orange>BACK</color>, чтобы вернуться в предыдущее меню"
-TerminalCommandOutput,CMD_Shell_MenuExit,100395463528669185,<color=orange>EXIT</color> — выход
-TerminalCommandOutput,CMD_Shell_MenuInvalidOption,100395463528669186,<color=red>[ALERT]</color>: НЕВЕРНЫЙ ВАРИАНТ
+TerminalCommandOutput,CMD_Shell_MenuExit,100395463528669185,"Ввудите <color=orange>EXIT</color>, чтобы выйти"
+TerminalCommandOutput,CMD_Shell_MenuInvalidOption,100395463528669186,<color=red>[ВНИМАНИЕ]</color>: НЕВЕРНЫЙ ВАРИАНТ
 TerminalCommandOutput,CMD_Shell_MenuOptions,100376202370342913,ДОСТУПНЫЕ ВАРИАНТЫ:
-TerminalCommandOutput,CMD_Shell_MenuYesNoInstruction,100395463528669187,"Введите <color=green>Y(yes)</color> или <color=red>N(no)</color>, введите <color=orange>BACK</color>, чтобы отменить"
+TerminalCommandOutput,CMD_Shell_MenuYesNoInstruction,100395463528669187,"Введите <color=green>Y(yes)</color> или <color=red>N(no)</color>. Введите <color=orange>BACK</color>, чтобы отменить"
 TerminalCommandOutput,CMD_Shell_UninstallComplete,157728436246274050,ГОТОВО
 TerminalCommandOutput,CMD_Shell_UninstallExit,157728436246274051,<color=orange>ЛЮБАЯ КЛАВИША</color> — выход
 TerminalCommandOutput,CMD_Shell_UninstallProgress,157728436246274049,УДАЛЕНИЕ <color=yellow>DE-DAEMON</color> — ПРОГРЕСС:
 TerminalCommandOutput,CMD_Shell_Uninstall_PromptPrefix,158101707156348928,DE-DAEMON-MGR
-TerminalCommandOutput,CMD_ShowcaseP3_Chant_Body,23423626821632,"Ещё одна боль, символичная смерть\nПредаю свою смертную плоть"
+TerminalCommandOutput,CMD_ShowcaseP3_Chant_Body,23423626821632,"Ещё одна боль — символическая смерть\nОтрекаюсь от своей смертной плоти"
 TerminalCommandOutput,CMD_ShowcaseP3_Chant_Empty,23237760434176,"Укажите стих для CHANT. Зарегистрированные стихи: [body, mind, spirit]"
-TerminalCommandOutput,CMD_ShowcaseP3_Chant_Mind,23387643887616,"Разум, мысли и вдохновенье\nБытиё под вопросом"
-TerminalCommandOutput,CMD_ShowcaseP3_Chant_Spirit,23407579414528,"Меж двух сторон приютившись\nВне времени двойственность, истинный я"
+TerminalCommandOutput,CMD_ShowcaseP3_Chant_Mind,23387643887616,"Сознание, мысли и вдохновение\nСамо существование — под вопросом"
+TerminalCommandOutput,CMD_ShowcaseP3_Chant_Spirit,23407579414528,"Меж двух сторон сокрыт\nВечная двойственность — моё истинное «я»"
 TerminalCommandOutput,CMD_ShowcaseP3_Chant_WrongArg,23306278584320,"ОШИБКА - '{0}' — незарегистрированный стих. Зарегистрированные стихи: [body, mind, spirit]"
-TerminalCommandOutput,CMD_ShowcaseP3_Yell_Absent,22703259303936,"ТРЕВОГА: Заблудившийся человек услышал сообщение...\n\nЧЕЛОВЕК: Отсутствует? Ах да! Не хватает одной части! Теперь ты должен её видеть. Быстрее! Скажи мне, что там, в конце этого проклятого лабиринта!\n\nmazeFragments добавлены в папку /puzzle3"
-TerminalCommandOutput,CMD_ShowcaseP3_Yell_Aleph,22941252501504,ТРЕВОГА: Заблудившийся человек услышал сообщение...\n\nЧеловек обрёл просветление! Успех!
+TerminalCommandOutput,CMD_ShowcaseP3_Yell_Absent,22703259303936,"Внимание: Заблудившийся человек услышал сообщение...\n\nЧЕЛОВЕК: Отсутствует? Ах да! Не хватает одной части! Теперь ты должен её видеть. Быстрее! Скажи мне, что там, в конце этого проклятого лабиринта!\n\nmazeFragments добавлены в папку /puzzle3"
+TerminalCommandOutput,CMD_ShowcaseP3_Yell_Aleph,22941252501504,Внимание: Заблудившийся человек услышал сообщение...\n\nЧеловек обрёл просветление! Успех!
 TerminalCommandOutput,CMD_ShowcaseP3_Yell_Empty,22581628682240,"Укажите слово для YELL, например YELL hello"
-TerminalCommandOutput,CMD_ShowcaseP3_Yell_Hello,23016682864640,"ТРЕВОГА: Заблудившийся человек машет в ответ...\n\nЧЕЛОВЕК: Скорее, пожалуйста, найди мне выход!"
+TerminalCommandOutput,CMD_ShowcaseP3_Yell_Hello,23016682864640,"Внимание: Заблудившийся человек машет в ответ...\n\nЧЕЛОВЕК: Скорее, прошу, найди мне выход!"
 TerminalCommandOutput,CMD_ShowcaseP3_Yell_WrongArg,22618907656192,ОШИБКА - '{0}' — неверное решение
 TerminalCommandOutput,CMD_Unknown,178756304896,"Команда <cmd>'{0}'</cmd> не найдена.
 Введите <cmd>HELP</cmd>, чтобы увидеть список доступных команд"
